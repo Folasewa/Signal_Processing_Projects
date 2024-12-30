@@ -1,0 +1,8 @@
+glob2
+mne
+numpy
+matplotlib
+jupyter
+jupyterlab
+ipykernel
+pandas
