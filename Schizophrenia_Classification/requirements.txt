@@ -6,3 +6,4 @@ jupyter
 jupyterlab
 ipykernel
 pandas
+scipy
