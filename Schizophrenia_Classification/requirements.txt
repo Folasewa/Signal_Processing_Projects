@@ -8,3 +8,4 @@ ipykernel
 pandas
 scipy
 scikit-learn
+tensorflow
