@@ -1,5 +1,7 @@
 DS_Alzheimer_Project_Folasewa/preprocessed_dataset/
 DS_Alzheimer_Project_Folasewa/preprocessed_filtered/
 DS_Alzheimer_Project_Folasewa/filtered_subjects/
-DS_Alzheimer_Project_Folasewa/epochs_overlap_output
+DS_Alzheimer_Project_Folasewa/epochs_overlap_output/
+DS_Alzheimer_Project_Folasewa/spectrum_features.csv
+
 *.DS_Store
