@@ -3,6 +3,8 @@ DS_Alzheimer_Project_Folasewa/preprocessed_filtered/
 DS_Alzheimer_Project_Folasewa/filtered_subjects/
 DS_Alzheimer_Project_Folasewa/epochs_overlap_output/
 DS_Alzheimer_Project_Folasewa/spectrum_features.csv
+DS_Alzheimer_Project_Folasewa/filtered_subjects_short/
+DS_Alzheimer_Project_Folasewa/preprocessed_filtered_short
 
 DS_Alzheimer_Project_Folasewa/complexity_metrics.csv
 *.DS_Store
