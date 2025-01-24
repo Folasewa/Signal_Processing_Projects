@@ -12,4 +12,5 @@ DS_Alzheimer_Project_Folasewa/complexity_features_short.csv
 DS_Alzheimer_Project_Folasewa/spectrum_features_short.csv
 DS_Alzheimer_Project_Folasewa/complexity_metrics.csv
 DS_Alzheimer_Project_Folasewa/synchronization_features_short.csv
+DS_Alzheimer_Project_Folasewa/synchronization_features_check.csv
 *.DS_Store
