@@ -12,6 +12,7 @@ DS_Alzheimer_Project_Folasewa/subject-level-brain-network-visuals/
 DS_Alzheimer_Project_Folasewa/filtered_preprocessed/
 DS_Alzheimer_Project_Folasewa/brain_network_visuals/
 DS_Alzheimer_Project_Folasewa/epochs_overlap/
+DS_Alzheimer_Project_Folasewa/synchronization.csv
 DS_Alzheimer_Project_Folasewa/spectrum.csv
 DS_Alzheimer_Project_Folasewa/complex.csv
 DS_Alzheimer_Project_Folasewa/complexity_features_short.csv
